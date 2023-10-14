@@ -29,7 +29,7 @@ def allowed_file(filename):
 def home():
     return render_template('index.html')
 
-model = tf.keras.models.load_model('epoch_20.keras')
+model = tf.keras.models.load_model('model/epoch_20.keras')
 
 @app.route('/', methods=['GET', 'POST'])
 def upload_file():
