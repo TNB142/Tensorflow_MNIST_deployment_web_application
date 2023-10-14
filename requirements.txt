@@ -36,7 +36,7 @@ Pillow==9.5.0
 protobuf==3.19.6
 pyasn1==0.5.0
 pyasn1-modules==0.3.0
-pygpu==0.7.6
+# pygpu==0.7.6
 # pyreadline @ file:///D:/bld/pyreadline_1655703530615/work
 # PyYAML @ file:///D:/bld/pyyaml_1648757357341/work
 requests==2.31.0
