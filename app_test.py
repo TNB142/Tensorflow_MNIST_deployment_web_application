@@ -6,7 +6,6 @@ from werkzeug.utils import secure_filename
 import tensorflow as tf
 from tensorflow.keras.models import load_model
 import numpy as np
-from PIL import Image
 from keras.preprocessing import image
 from keras_preprocessing.image import load_img
 
