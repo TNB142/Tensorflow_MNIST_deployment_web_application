@@ -50,7 +50,7 @@ tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.11.0
 tensorflow-estimator==2.11.0
-tensorflow-intel==2.11.0
+# tensorflow-intel==2.11.0
 tensorflow-io-gcs-filesystem==0.31.0
 # termcolor @ file:///home/conda/feedstock_root/build_artifacts/termcolor_1682317048417/work
 # Theano @ file:///D:/bld/theano_1647410736059/work
